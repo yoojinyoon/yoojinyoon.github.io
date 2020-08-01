@@ -14,6 +14,15 @@ body {
 .menu-area{
     background: #000;
 }
+
+.menu-area h2 a:hover{
+    text-decoration: none;
+    color: yellow;
+}
+.menu-area h2 a{
+    display: block;
+    color: #fff;
+}
 .main-menu ul{
     padding: 0;
     margin: 0;
