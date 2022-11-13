@@ -1,1 +1,35 @@
+Title: Patterns of Postoperative Complications Related to Cannabis and Tobacco Usage in Patients Undergoing Facial Fracture Surgeries 
+
+Author Information: 
+YooJin Yoon, BS1, Nayun Lee, BS1, Anna Lee, BS1, Michael B. Gehring, MD2, Ryan Constantine, MD2, David W. Mathes, MD2, Jason Yu, MD2, David Khechoyan, MD, Matthew L. Iorio, MD2, Christodoulos Kaoutzanis, MD2
+1University of Colorado School of Medicine
+2University of Colorado School of Medicine Division of Plastic & Reconstructive Surgery 
+
+Background: 
+Cannabis is the third most used controlled substance in the world. Despite its widespread use, there is minimal research investigating cannabis usage in patients undergoing facial fracture surgeries. The purpose of this study was to evaluate patterns of postoperative complications related to marijuana and tobacco usage in facial fracture surgeries.
+
+Materials and Methods: 
+PearldiverTM, a commercially available healthcare database, was used to identify patients undergoing facial fracture surgeries who have utilized cannabis or tobacco between 2010-2021. The study population was categorized into groups using ICD-9, ICD-10, and CPT codes: isolated maxilla and mandibular fractures in patients reporting cannabis or tobacco usage. To assess the influence of these substances on postoperative complications in facial trauma, a logistic regression was performed.
+
+Results: 
+26,830 patients were included in the study. In patients reporting cannabis use, 14 (1.0%) had maxilla fractures and 367 (1.5%) mandible fractures. Additionally, in patients reporting tobacco use, 613 (40%) had maxilla fractures and 11,429 (45.2%) mandible fractures. Patients who reported using cannabis had an increased risk of developing postoperative infection and facial nonunion. Patients who reported using tobacco had an additional increased risk of developing hardware failure, facial abscess, debridement, malocclusion, and visual disturbance, in addition to postoperative infection and facial nonunion. 
+
+Conclusion:
+Although tobacco use is associated with a greater number of complications compared to cannabis, using both substances are still associated with increased risk of numerous complications following facial fracture surgeries. Additional studies are necessary to determine timing to stop using these substances to decrease risk of complications.
+
+ 
+Table 1
+	Cannabis Usage	Tobacco Usage
+	OR	95% CI	OR	95% CI
+Postoperative infection	1.78*	(1.03-2.87)	1.35*	(1.16-2.57)
+Facial nonunion	1.78*	(1.03-2.87)	1.35*	(1.16-2.57)
+Hardware failure	2.27*	(1.51-3.28)	1.46*	(1.29-1.65)
+Facial abscess	1.03	(0.57-1.70)	1.15*	(1.01-1.31)
+Debridement	1	(0.65-1.47)	1.11*	(1.01-1.22)
+Malocclusion	1.13	(0.68-1.77)	1.21*	(1.08-1.36)
+Mucocele	1.25	(0.90-1.69)	1.19*	(1.09-1.29)
+Visual disturbance	1.2	(0.92-1.56)	1.14*	(1.07-1.22)
+* p-value < 0.05
+
+
 
